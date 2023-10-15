@@ -18,8 +18,8 @@ namespace Tyuiu.PolyanskiyDE.Sprint2.Task5.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Логические операции                                               *");
-            Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #30                                                             *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #6                                                             *");
             Console.WriteLine("* Выполнил: Полянский Данил Эдуардович | АСОиУБ-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
