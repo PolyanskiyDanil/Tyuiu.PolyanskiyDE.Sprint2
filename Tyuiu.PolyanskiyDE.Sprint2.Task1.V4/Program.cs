@@ -21,7 +21,23 @@ namespace Tyuiu.PolyanskiyDE.Sprint2.Task1.V4
 
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
-
+            Console.Title = "Спринт #2 | Выполнил: Полянский Д. Э. | АСОиУБ-23-1";
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* Спринт #2                                                               *");
+            Console.WriteLine("* Тема: Логические операции                                               *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #4                                                              *");
+            Console.WriteLine("* Выполнил: Полянский Данил Эдуардович | АСОиУБ-23-1                      *");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=,         *");
+            Console.WriteLine("* последовательность можно чередовать, но использовать один раз           *");
+            Console.WriteLine("* в выражении) и логических операций (|, &, ||, &&, !, ^,                 *");
+            Console.WriteLine("* последовательность операций не должна нарушаться), а также              *");
+            Console.WriteLine("* арифметических выражений, которая вернет логическую                     *");
+            Console.WriteLine("* последовательность(массив): (False, False, False, False, True, False)   *");
+            Console.WriteLine("* при a = 175, b = 176, c = 414, d = 414                                  *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
